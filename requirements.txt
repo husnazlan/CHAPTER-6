@@ -1,5 +1,0 @@
-nltk
-streamlit
-pandas
-numpy
-nltk.stem
